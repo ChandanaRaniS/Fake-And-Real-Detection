@@ -28,4 +28,4 @@ Kaggle Fake and Real News Dataset
 ## 🚀 Future Enhancements
 - Deep learning (BERT, LSTM)
 - Multilingual support
-# Fake-And-Real-Detection
+
