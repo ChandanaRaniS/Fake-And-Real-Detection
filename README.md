@@ -28,4 +28,18 @@ Kaggle Fake and Real News Dataset
 ## 🚀 Future Enhancements
 - Deep learning (BERT, LSTM)
 - Multilingual support
+- 
 
+## 📁 Project Structure
+Fake-And-Real-Detection/
+│
+├── Fake.csv
+├── True.csv
+├── news.csv
+├── fake_news_model.pkl
+├── tfidf_vectorizer.pkl
+├── fake_news.ipynb
+├── app.py
+└── README.md
+## 🔧 Installation
+pip install pandas numpy nltk scikit-learn streamlit
